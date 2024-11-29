@@ -1,4 +1,7 @@
 {
   "name": "L-4",
-  "packageManager": "yarn@4.5.2"
+  "packageManager": "yarn@4.5.2",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
